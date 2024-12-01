@@ -60,6 +60,8 @@ Topics
  	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/) - Dynamic Programming from Novice to Advanced.
  	- [Codechef](https://www.codechef.com/wiki/tutorial-dynamic-programming) - Tutorial on Dynamic Programming.
  	- [Quora](https://www.quora.com/How-can-one-start-solving-Dynamic-Programming-problems/) - Getting started with Dynamic Programming (Quora Discussion).
+        - [shayan (igm on cf) https://www.youtube.com/live/oN_Cnzl5W9c?si=DsEOo1jZIG174wMf - his playlist have various topics like dp,graphs,numbertheory both theory and 
+          problem solving videos 
 
  - Questions on
 
